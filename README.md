@@ -19,22 +19,17 @@ Welcome to my GitHub profile! I'm a senior software engineer with a passion for 
 
 ### 1. **Inquir** - Search as a Service
    - A scalable, powerful search-as-a-service platform. Inquir enables companies to create and fine-tune search engines by combining various data sources, incorporating RAG (retrieval-augmented generation) chatbots, and more.
-   - **Tech Stack**: Node.js, Kubernetes, OpenSearch, React.
    - **Features**: Custom pipelines, stop-word removal, thesaurus support, and multi-source indexing (e.g., Salesforce).
 
 ### 2. **Collectathon Game** (In Development)
    - A first-person perspective (FPP) collectathon game focusing on exploration and achievement collection.
    - **Tech Stack**: Unity or Unreal Engine (specify if relevant), custom scripts for game mechanics.
 
-### 3. **File System Tree** (Node.js)
-   - A Node.js-based file system explorer that handles error cases (e.g., permissions issues) gracefully.
-   - **Tech Stack**: Node.js, file system API, error handling modules.
-
-### 4. **SaaS Platform with Dynamic Container Deployment**
+### 3. **SaaS Platform with Dynamic Container Deployment**
    - Platform allows users to dynamically add containers, managed by Kubernetes with direct URLs for access.
    - **Tech Stack**: Kubernetes, MicroK8s, Helm.
 
-### 5. **Inquir Connectors**
+### 4. **Inquir Connectors**
    - Connectors for integrating Inquir with external platforms (e.g., Salesforce) to index data effectively.
    - **Tech Stack**: Node.js, data integration libraries.
 
