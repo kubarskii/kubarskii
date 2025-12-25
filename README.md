@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a senior software engineer with a passion for 
 - **Cloud Services**: AWS, especially with **OpenSearch** (search infrastructure)
 - **Database**: PostgreSQL, MySQL, MongoDB, Redis
 - **Miscellaneous**: Puppeteer, DataWeave, Inquir (custom search engine solution)
+- **FUN PROJECT**: https://kubarskii.github.io/text-3d-engine/
 
 ---
 
